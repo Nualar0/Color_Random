@@ -57,10 +57,10 @@ body {
 }
 
 .hex {
-    margin-bottom: 450px;
+    margin-bottom: 700px;
     font-size: 30px;
     text-align: center;
-    margin-top: 5%;
+    margin-top: 7%;
 }
 
 #hex_code:hover {
