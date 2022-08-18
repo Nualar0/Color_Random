@@ -33,7 +33,6 @@ body {
 }
 
 .butt {
-    margin-buttom: 30%;
     font-family: 'Lobster Two', cursive;
     font-size: 25px;
     letter-spacing: 4px;
@@ -58,6 +57,7 @@ body {
 }
 
 .hex {
+    margin-bottom: 300px;
     font-size: 30px;
     text-align: center;
     margin-top: 5%;
