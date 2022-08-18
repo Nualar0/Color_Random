@@ -20,7 +20,7 @@ body {
     position: fixed;
 }
 .txtcontent {
-    margin-top: 10%;
+    margin-top: 15%;
     font-size: 45px;
     
     text-align: center;
@@ -57,7 +57,7 @@ body {
 }
 
 .hex {
-    margin-bottom: 100px;
+    margin-bottom: 200px;
     font-size: 30px;
     text-align: center;
     margin-top: 7%;
